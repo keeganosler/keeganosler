@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Keegan's github stats](https://github-readme-stats.vercel.app/api?username=keeganosler)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
