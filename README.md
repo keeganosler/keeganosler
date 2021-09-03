@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Keegan<a href="https://linkedin.com/in/keegan-osler-63a559177" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keegan osler" height="30" width="40" /></a></h1>
+<h1>Hi 👋, I'm Keegan</h1>
 <h3">A Canadian Developer and Techie</h3>
 
 - 🔭 I’m currently working on **Angular and Openlayers**
