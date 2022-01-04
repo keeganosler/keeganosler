@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Keegan</h1>
-<h3">A Canadian Developer and Techie</h3>
+<h1 align=”center”>Hi there, I'm Keegan 👋</h1>
+<h3 align=”center”>I'm a Frontend Developer, Designer and all-around Nerd from Canada</h3>
 
 - 🔭 I’m currently working on **Angular and Openlayers**
 
