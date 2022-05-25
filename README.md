@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Angular and Openlayers** as a UI developer at [Verge Ag](https://vergeag.com/)
 
-- 🌱 I’m currently learning **Cypress Testing Framework**
+- 🌱 I’m currently learning **Figma** for UI design and **Cypress** for automated testing.
 
 - 🧑‍💻 I’m looking to collaborate on cool projects with cool people!
 
